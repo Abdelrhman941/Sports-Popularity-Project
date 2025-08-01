@@ -85,8 +85,3 @@ streamlit run gui.py
 * Enhanced anomaly detection
 * Advanced ensemble methods
 * Cross-platform deployment (e.g., Docker, Hugging Face Spaces)
-
----
-
-## **🙌 Contributions & Feedback**
-If you find this project helpful, feel free to star ⭐ the repo or fork it for your use. Suggestions, improvements, and pull requests are welcome!
